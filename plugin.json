@@ -1,0 +1,12 @@
+{
+"ID":"c35e24716ff24d7c9805c00835255c62",   //插件ID，32位的UUID
+"ActionKeyword":"im",      //插件默认的触发关键字
+"Name":"Markdown.ImageHost",              //插件名字
+"Description":"Transfer an image into base64 or generate an image host url",//插件介绍
+"Author":"Andrew Lau",     //作者
+"Version":"0.0.1",         //插件版本，必须是x.x.x的格式
+"Language":"python",       //插件语言，目前支持csharp,python
+"Website":"https://github.com/AndrewLauu/Wox.MarkdownImage",                    //插件网站或者个人网站
+"IcoPath": "Images\\pic.png",  //插件图标，路径是相对插件根目录的路径
+"ExecuteFileName":"main.py"   //执行文件入口，如果是C#插件则填写DLL路径，如果是pyhton则填写python文件路径
+}
