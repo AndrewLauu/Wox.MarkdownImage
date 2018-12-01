@@ -20,7 +20,7 @@
   
 - 在Wox中使用 `wpm install Wox.MarkdownImage` 命令来在线安装。
   
-- 如果你需要离线安装，在[这里][release]下载最终插件，然后拖到到Wox中。
+- 如果你需要离线安装，在[这里][release]下载最新插件，然后拖到到Wox中。
 
 ## 用法
 插件支持上传到 sm.ms 图床，然后给出 Url，或将图片转为 Base64 格式。

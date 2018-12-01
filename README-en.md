@@ -27,7 +27,7 @@ This plugin supports uploading the image onto imagehost powered by sm.ms , or tr
 > Read : Due to the constraint of API , only image files available, ie. *.jpg, *.gif, *.png etc. 
 
 ### Upload mode
-- Use `md u C:\pic.jpg` to upload , then `Enter`复制Url.
+- Use `md u C:\pic.jpg` to upload , then `Enter` to copy Url.
   
 - 你可以在`main.py`的`upload`里更换其他图床。
 
